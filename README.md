@@ -5,4 +5,4 @@
 
 - ## 👋 Hello I am Diana d.otieno@alustudent.com
 - ### 👀 I’m interested in Full Stack
-- ### 🌱 I’m currently learning Foundations of Computer Science and Software Engineering - WebStack
+- ### 🌱 I’m currently learning Software Engineering - WebStack
